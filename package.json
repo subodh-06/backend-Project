@@ -1,0 +1,19 @@
+{
+  "name": "chai-backend-project",
+  "version": "1.0.0",
+  "description": "learning backend with project for chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "MERN",
+    "node.js",
+    "mongoose",
+    "database",
+    "react"
+  ],
+  "author": "subodh kumar pradhan",
+  "license": "ISC"
+}
